@@ -4,7 +4,7 @@ Este proyecto compara dos APIs de programación paralela para memoria compartida
 
 ## Limpiar el resultados.csv
 
-Antes de ejecutar los experimentos, limpia el archivo 'resultados.csv'
+Antes de ejecutar los experimentos, limpia el archivo `resultados.csv`
 
 ```bash
 > resultados.csv
